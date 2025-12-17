@@ -1,4 +1,4 @@
-# Abhayranagit-Phishing-Email-Detection-and-Reply-Suggestion-System
+# Phishgaurd-Phishing-Email-Detection-and-Reply-Suggestion-System
 # 🛡️ Phishing Email Detection and Reply Suggestion System
 
 An intelligent email security system that **detects phishing emails** using machine learning and **generates safe reply suggestions** using a Large Language Model (LLM). This project integrates  phishing detection with  secure, human-like email replies.
